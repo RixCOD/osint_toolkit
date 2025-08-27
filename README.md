@@ -3,7 +3,7 @@
 You can Find Any-One by Just email, phone number, username, etc
 # 🕵️ Simple OSINT Tool
 <p align="center">
-  <img src="assets/osint-banner.png" alt="Simple OSINT Tool" width="800">
+  <img src="osint-banner.png" alt="Simple OSINT Tool" width="800">
 </p>
 This powerful and easy-to-use Python script automates the initial steps of open-source intelligence (OSINT), helping you quickly gather public information on usernames, email addresses, and phone numbers.
 
