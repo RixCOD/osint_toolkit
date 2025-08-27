@@ -1,0 +1,5 @@
+phonenumbers 
+requests 
+pillow
+beautifulsoup4
+sherlock-project
